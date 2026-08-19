@@ -30,15 +30,19 @@
 
 <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
 &nbsp;&nbsp;
-<img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+<img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
 &nbsp;&nbsp;
 <img alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
 &nbsp;&nbsp;
 <img alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg">
 &nbsp;&nbsp;
+<img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+&nbsp;&nbsp;
 <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg">
 &nbsp;&nbsp;
 <img alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg">
+&nbsp;&nbsp;
+<img alt="GitHub" height="40" width="40" src="https://cdn.simpleicons.org/github/FFFFFF">
 &nbsp;&nbsp;
 <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 
