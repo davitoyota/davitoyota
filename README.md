@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,git,github,supabase&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,git,github,&perline=12" />
 </p>
 
 
