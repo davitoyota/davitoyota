@@ -32,41 +32,30 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/davitoyota/davitoyota/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> 💡 Essa animação é gerada automaticamente a partir do seu grafo de contribuições — mais dinâmica que um gráfico estático. Veja como ativar no fim deste arquivo.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=davitoyota&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF" />
-<img height="165" src="https://streak-stats.demolab.com/?user=davitoyota&theme=react&hide_border=true&background=0D1117" />
+<a href="https://github.com/davitoyota">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davitoyota&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/davitoyota">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davitoyota&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+</a>
 
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitoyota&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FFFFFF" />
-</div>
+<br>
 
 ---
 
+## 👀 Profile Views
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=davitoyota&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=davitoyota&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS">
 
 </div>
-
-<!--
-COMO ATIVAR A SNAKE ANIMATION:
-1. Vá em github.com/davitoyota → Settings → Actions → cria um workflow novo
-2. Use a action "Platane/snk" (github-contribution-grid-snake)
-3. Ela vai gerar o SVG automaticamente numa branch "output"
-4. Troque a URL da snake acima pela gerada no seu repositório
--->
