@@ -35,25 +35,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/davitoyota">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davitoyota&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davitoyota&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-</a>
-
+  <img width="400" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davitoyota&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="400" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davitoyota&layout=compact&langs_count=8&theme=react&hide_border=true"/>
 </div>
-
-<br>
 
 ---
 
 ## 👀 Profile Views
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=davitoyota&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS">
-
+  <img src="https://komarev.com/ghpvc/?username=davitoyota&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS">
 </div>
-
-
 
