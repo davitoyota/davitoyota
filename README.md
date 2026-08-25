@@ -38,11 +38,6 @@
 
 <a href="https://github.com/davitoyota">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davitoyota&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/davitoyota">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davitoyota&layout=compact&langs_count=8&theme=react&hide_border=true"/>
 </a>
 
@@ -59,3 +54,6 @@
 <img src="https://komarev.com/ghpvc/?username=davitoyota&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS">
 
 </div>
+
+
+
